@@ -315,6 +315,11 @@ footer li a:hover {
     
   }
 
+  .left-3, .left-4 {
+  width: 160px;
+  font-size: 1rem;
+  }
+
 
 
 }
@@ -339,6 +344,12 @@ footer li a:hover {
 
   #header-left-2 {
     text-align: center;
+  }
+
+  .left-3, .left-4 {
+    width: 160px;
+    font-size: 0.8rem;
+    
   }
 }
 
