@@ -336,6 +336,10 @@ footer li a:hover {
   #cube_img {
     display: none;
   }
+
+  #header-left-2 {
+    text-align: center;
+  }
 }
 
 
